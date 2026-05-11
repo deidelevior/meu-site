@@ -59,7 +59,7 @@ footer {
 }
 
 input, textarea, select {
-    width: 100%;
+    width: 20%;
     padding: 8px;
     margin: 5px 0;
     border-radius: 5px;
@@ -70,8 +70,8 @@ button {
     background-color: #00bfff;
     color: black;
     border: none;
-    padding: 10px;
-    margin-top: 10px;
+    padding: 5px;
+    margin-top: 5px;
     cursor: pointer;
 }
 
